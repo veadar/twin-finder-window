@@ -14,6 +14,8 @@ Please change your dock_width by open "twin finder window.app" with "Script Edit
 
 ##Screenshot
 
+![](http://blog-imgs-94.fc2.com/v/e/a/veadardiary/twin_finder_window.gif)
+
 ##Download
 
 Click Here → [Download](https://github.com/veadar/twin-finder-window/releases)
